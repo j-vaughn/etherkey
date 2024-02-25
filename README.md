@@ -1,3 +1,5 @@
+Updated with code from:  https://www.sjoerdlangkemper.nl/2022/11/16/running-etherkey-on-arduino-leonardo/
+
 Etherkey
 ========
 Emulate a conventional USB keyboard with a scriptable network capable microcontroller.
